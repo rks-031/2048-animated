@@ -1,7 +1,8 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
+import ReactDOM from "react-dom";
 import "./main.scss";
 import "./styles.scss";
+import BoardView from "./components/Board";
 // import './index.css';
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
@@ -21,7 +22,7 @@ import "./styles.scss";
 const App = () => {
   return (
     <div>
-      <h1 style={{ color: "white" }}>2048</h1>
+      <BoardView />
     </div>
   );
 };
