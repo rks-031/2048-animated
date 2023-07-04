@@ -1,3 +1,17 @@
+## Visuals of the Game
+
+`Gameplay`
+
+https://github.com/rks-031/2048-animated/assets/103258259/e3f0533b-dba1-4999-9fcf-b95c007f9f40
+
+`After Winning`
+
+https://github.com/rks-031/2048-animated/assets/103258259/61c28497-7300-4a84-836f-4e617d5f36b4
+
+`Game Over`
+
+https://github.com/rks-031/2048-animated/assets/103258259/174ae102-168f-4a31-98dd-0291849dfdd3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
